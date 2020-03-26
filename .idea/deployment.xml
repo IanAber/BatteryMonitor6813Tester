@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="Ubuntu (64bit)" deleteMissingItems="true" createEmptyFolders="true" preserveFilePermissions="true" autoUploadExternalChanges="true" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="Battery">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/src/BatteryMonitor6813Tester" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Ubuntu (64bit)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/src/BatteryMonitor6813Tester" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/src/BatteryMonitor6813Tester/LTC6813" local="$PROJECT_DIR$/LTC6813" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
